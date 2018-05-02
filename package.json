@@ -1,0 +1,33 @@
+{
+  "name": "codetest.vidillion-master",
+  "version": "1.0.0",
+  "description": "Codetest vidillion",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "fs": "0.0.1-security",
+    "md5": "^2.2.1",
+    "readline": "^1.3.0"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Saniyasyedqures/codetest.vidillion"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Saniya syed qureshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saniyasyedqures/codetest.vidillion/issues"
+  },
+  "homepage": "https://github.com/Saniyasyedqures/codetest.vidillion#readme"
+}
